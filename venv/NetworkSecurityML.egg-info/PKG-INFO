@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: NetworkSecurityML
+Version: 0.0.1
+Author: Rajkumar Bantu
+Author-email: rajbantu801@gmail.com
+License-File: LICENSE_PYTHON.txt
+Requires-Dist: python-dotenv
+Requires-Dist: numpy
+Requires-Dist: pymongo
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: certifi
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
+Dynamic: requires-dist

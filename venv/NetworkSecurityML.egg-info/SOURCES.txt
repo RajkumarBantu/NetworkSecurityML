@@ -1,0 +1,8 @@
+LICENSE_PYTHON.txt
+README.md
+setup.py
+NetworkSecurityML.egg-info/PKG-INFO
+NetworkSecurityML.egg-info/SOURCES.txt
+NetworkSecurityML.egg-info/dependency_links.txt
+NetworkSecurityML.egg-info/requires.txt
+NetworkSecurityML.egg-info/top_level.txt
